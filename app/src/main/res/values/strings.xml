@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">LatihanMobileLocation</string>
+    <string name="app_name">LatihanPlayVideo</string>
+    <string name="title_activity_maps">Map</string>
 </resources>
